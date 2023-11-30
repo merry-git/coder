@@ -13,7 +13,11 @@ To showcase this, I created a simulation on my local computer using models that 
 
 To see results, navigate to the `conversations` folder where I ask this agent chain multiple coding questions. I will attach the source code above along with setup instructions below. In the conversation, I instructed the back-and-forth to stop once the task is complete (it will send the word TERMINATE, stopping the code.) If the conversation goes into an infinite loop of back-and-forth, the maximum iterations parameter will stop after 10 iterations.
 
-`conversations` ^ above
+### Conversation Example List
+
+`hashfunction`:
+`bubblesort`:
+`binarysearch`:
 
 ## Setup
 
