@@ -1,14 +1,14 @@
 user_proxy (to Coder):
 
 
-Write a python script to hash an array of 5 letter words into 3 digits and run the code with test data, then stop
+Write a python script to hash an array of 5 letter words into 1 digit and run the code with test data, then stop
 
 
 --------------------------------------------------------------------------------
 Coder (to user_proxy):
 
 
-1. Write a python script to hash an array of 5 letter words into 3 digits:
+1. Write a python script to hash an array of 5 letter words into 1 digit:
 ```python
 import hashlib
 
