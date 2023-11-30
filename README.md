@@ -7,7 +7,7 @@ To showcase this, I created a simulation on my local computer using models that 
 
 `Mistral 7B`- ask questions, create responses in human like style (cannot code)
 
-`codeLlama`- generate code, run code, confirm if output is correct (not as good with human language)
+`codeLlama`- generate code, run code, install libraries, debug, terminate when complete!
 
 # Conversations
 
@@ -15,9 +15,15 @@ To see results, navigate to the `conversations` folder where I ask this agent ch
 
 ### Conversation Example List
 
+`medicalDataScraper`: 
+
 `hashfunction`:
+
 `bubblesort`:
+
 `binarysearch`:
+
+
 
 ## Setup
 
